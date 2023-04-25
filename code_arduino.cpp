@@ -178,10 +178,11 @@ void loop()
     Serial.println(dis_fleche1.getValueX());
     Serial.print("Position Y (F1) :");
     Serial.println(dis_fleche1.getValueY());
-    Serial.print("Distance X (F1) :");
+    Serial.print("Position X (F1) :");
     Serial.println(dis_fleche2.getValueX());
-    Serial.print("Distance Y (F1) :");
+    Serial.print("Position Y (F1) :");
     Serial.println(dis_fleche2.getValueY());
+    
     Serial.print("Distance (F1) :");
     Serial.println(dis_fleche1.getValue());
     Serial.print("Distance (F2) :");
