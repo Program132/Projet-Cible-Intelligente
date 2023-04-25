@@ -1,4 +1,4 @@
-# Projet-Cible-Intelligentes
+# Cible Intelligente
 
 ## Problématique 
 
