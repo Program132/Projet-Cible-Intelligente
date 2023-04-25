@@ -15,3 +15,7 @@ Mon rôle était de créer le code d'une caméra (Pixy) qui permet de trouver la
 ## Contraintes
 
 Nous avons du travailler sur un cahier des charges et avons remarqué de nombreuses contraintes présentes comme le fait que ce n'est pas à 100% précis par exemple, ou encore il faut établir une distance entre la caméra et la cible, etc.
+
+Voici un petit aperçu : 
+
+![image](https://user-images.githubusercontent.com/67320703/234277242-05a4763b-510c-4cea-a268-38538d7067a1.png)
